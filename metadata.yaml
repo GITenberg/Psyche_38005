@@ -1,0 +1,47 @@
+_repo: Psyche_38005
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Calthrop, Dion Clayton
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '2765'
+    url: http://www.gutenberg.org/2009/agents/2765
+  translator:
+    agent_name: Berrington, Benjamin Shepherd
+    alias: Berrington, B. S.
+    gutenberg_agent_id: '39191'
+    url: http://www.gutenberg.org/2009/agents/39191
+covers:
+- cover_type: archival
+  image_path: 38005-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Louis_Couperus
+    - http://nl.wikipedia.org/wiki/Louis_Couperus
+description: Cover; Title Page; Epigraph; Contents; PSYCHE; I; II; III; IV; V; VI;
+  VII; VIII; IX; X; XI; XII; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII;
+  XXIII; XXIV; XXV; XXVI; XXVII; CUPID AND PSYCHE; I; II; III; Also Available from
+  Pushkin Press; About the Publisher; Copyright
+gutenberg_issued: '2011-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38005'
+  lccn: '11030461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Fairy tales'
+title: Psyche
+url: http://www.gutenberg.org/ebooks/38005
